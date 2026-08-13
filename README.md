@@ -33,7 +33,7 @@
 | 단계 | 산출물 |
 |---|---|
 | `00-아이디에이션` | [서비스 기획](00-아이디에이션/개인카페_통합스탬프_서비스기획.md) |
-| `01-porters-five-forces` | [비즈니스 기획서 초안](01-porters-five-forces/business-one-pager.md) · Five Forces 분석 예정 |
+| `01-porters-five-forces` | [비즈니스 기획서 초안](01-porters-five-forces/business-one-pager.md) · [Five Forces 분석](01-porters-five-forces/five-forces-analysis.md) — **산업 매력도 낮음** (🔴 3 / 🟡 2), 전략은 상권 단위 집중화 |
 | `02-value-chain` · `05-personas` · `06-opportunity-score` · `07-jtbd` | 방법론 정의 완료, 분석 예정 |
 
 ## 상태
